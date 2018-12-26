@@ -1,0 +1,293 @@
+/******************** FONT-FACE *********************/
+
+@font-face {
+    font-family: '00';
+    src: url('../fonts/new/00.TTF');
+}
+@font-face {
+    font-family: '01';
+    src: url('../fonts/new/01.TTF');
+}
+@font-face {
+    font-family: '02';
+    src: url('../fonts/new/02.TTF');
+}
+@font-face {
+    font-family: '03';
+    src: url('../fonts/new/03.TTF');
+}
+@font-face {
+    font-family: '04';
+    src: url('../fonts/new/04.TTF');
+}
+@font-face {
+    font-family: '05';
+    src: url('../fonts/new/05.TTF');
+}
+@font-face {
+    font-family: '06';
+    src: url('../fonts/new/06.TTF');
+}
+@font-face {
+    font-family: '07';
+    src: url('../fonts/new/07.TTF');
+}
+@font-face {
+    font-family: '08';
+    src: url('../fonts/new/08.TTF');
+}
+@font-face {
+    font-family: '09';
+    src: url('../fonts/new/09.TTF');
+}
+@font-face {
+    font-family: '10';
+    src: url('../fonts/new/10.TTF');
+}
+@font-face {
+    font-family: '11';
+    src: url('../fonts/new/11.TTF');
+}
+@font-face {
+    font-family: '12';
+    src: url('../fonts/new/12.TTF');
+}
+@font-face {
+    font-family: '13';
+    src: url('../fonts/new/13.TTF');
+}
+@font-face {
+    font-family: '14';
+    src: url('../fonts/new/14.TTF');
+}
+@font-face {
+    font-family: '15';
+    src: url('../fonts/new/15.TTF');
+}
+@font-face {
+    font-family: '16';
+    src: url('../fonts/new/16.TTF');
+}
+@font-face {
+    font-family: '17';
+    src: url('../fonts/new/17.TTF');
+}
+@font-face {
+    font-family: '18';
+    src: url('../fonts/new/18.TTF');
+}
+@font-face {
+    font-family: '19';
+    src: url('../fonts/new/19.TTF');
+}
+@font-face {
+    font-family: '20';
+    src: url('../fonts/new/20.TTF');
+}
+@font-face {
+    font-family: '21';
+    src: url('../fonts/new/21.TTF');
+}
+@font-face {
+    font-family: '22';
+    src: url('../fonts/new/22.TTF');
+}
+@font-face {
+    font-family: '23';
+    src: url('../fonts/new/23.TTF');
+}
+@font-face {
+    font-family: '24';
+    src: url('../fonts/new/24.TTF');
+}
+@font-face {
+    font-family: '25';
+    src: url('../fonts/new/25.TTF');
+}
+@font-face {
+    font-family: '26';
+    src: url('../fonts/new/26.TTF');
+}
+@font-face {
+    font-family: '27';
+    src: url('../fonts/new/27.TTF');
+}
+@font-face {
+    font-family: '28';
+    src: url('../fonts/new/28.TTF');
+}
+@font-face {
+    font-family: '29';
+    src: url('../fonts/new/29.TTF');
+}
+@font-face {
+    font-family: '30';
+    src: url('../fonts/new/30.TTF');
+}
+@font-face {
+    font-family: '31';
+    src: url('../fonts/new/31.TTF');
+}
+@font-face {
+    font-family: '32';
+    src: url('../fonts/new/32.TTF');
+}
+@font-face {
+    font-family: '33';
+    src: url('../fonts/new/33.TTF');
+}
+@font-face {
+    font-family: '34';
+    src: url('../fonts/new/34.TTF');
+}
+@font-face {
+    font-family: '04';
+    src: url('../fonts/new/04.TTF');
+}
+@font-face {
+    font-family: '35';
+    src: url('../fonts/new/35.TTF');
+}
+@font-face {
+    font-family: '36';
+    src: url('../fonts/new/36.TTF');
+}
+@font-face {
+    font-family: '37';
+    src: url('../fonts/new/37.TTF');
+}
+@font-face {
+    font-family: '38';
+    src: url('../fonts/new/38.TTF');
+}
+@font-face {
+    font-family: '39';
+    src: url('../fonts/new/39.TTF');
+}
+@font-face {
+    font-family: '40';
+    src: url('../fonts/new/40.TTF');
+}
+@font-face {
+    font-family: '41';
+    src: url('../fonts/new/41.TTF');
+}
+@font-face {
+    font-family: '42';
+    src: url('../fonts/new/42.TTF');
+}
+@font-face {
+    font-family: '43';
+    src: url('../fonts/new/43.TTF');
+}
+@font-face {
+    font-family: '44';
+    src: url('../fonts/new/44.TTF');
+}
+@font-face {
+    font-family: '45';
+    src: url('../fonts/new/45.TTF');
+}
+@font-face {
+    font-family: '46';
+    src: url('../fonts/new/46.TTF');
+}
+@font-face {
+    font-family: '47';
+    src: url('../fonts/new/47.TTF');
+}
+@font-face {
+    font-family: '48';
+    src: url('../fonts/new/48.TTF');
+}
+@font-face {
+    font-family: '49';
+    src: url('../fonts/new/49.TTF');
+}
+@font-face {
+    font-family: '50';
+    src: url('../fonts/new/50.TTF');
+}
+@font-face {
+    font-family: '51';
+    src: url('../fonts/new/51.TTF');
+}
+@font-face {
+    font-family: '52';
+    src: url('../fonts/new/52.TTF');
+}
+@font-face {
+    font-family: '53';
+    src: url('../fonts/new/53.TTF');
+}
+@font-face {
+    font-family: '54';
+    src: url('../fonts/new/54.TTF');
+}
+@font-face {
+    font-family: '55';
+    src: url('../fonts/new/55.TTF');
+}
+@font-face {
+    font-family: '56';
+    src: url('../fonts/new/56.TTF');
+}
+@font-face {
+    font-family: '57';
+    src: url('../fonts/new/57.TTF');
+}
+@font-face {
+    font-family: '58';
+    src: url('../fonts/new/58.TTF');
+}
+@font-face {
+    font-family: '59';
+    src: url('../fonts/new/59.TTF');
+}
+@font-face {
+    font-family: '60';
+    src: url('../fonts/new/60.TTF');
+}
+@font-face {
+    font-family: '61';
+    src: url('../fonts/new/61.TTF');
+}
+@font-face {
+    font-family: '62';
+    src: url('../fonts/new/62.TTF');
+}
+@font-face {
+    font-family: '63';
+    src: url('../fonts/new/63.TTF');
+}
+@font-face {
+    font-family: '64';
+    src: url('../fonts/new/64.TTF');
+}
+@font-face {
+    font-family: '65';
+    src: url('../fonts/new/65.TTF');
+}
+@font-face {
+    font-family: '66';
+    src: url('../fonts/new/66.TTF');
+}
+@font-face {
+    font-family: '67';
+    src: url('../fonts/new/67.TTF');
+}
+@font-face {
+    font-family: '68';
+    src: url('../fonts/new/68.TTF');
+}
+@font-face {
+    font-family: '69';
+    src: url('../fonts/new/69.TTF');
+}
+@font-face {
+    font-family: '70';
+    src: url('../fonts/new/70.TTF');
+}
+
+/**************************************************************/
+

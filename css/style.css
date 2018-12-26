@@ -1,0 +1,236 @@
+/* YOUR CUSTOM STYLES */
+
+body {margin:0;background-image:url('../img/bg.jpg');background-size:cover;background-repeat:no-repeat;}
+
+
+
+
+
+
+header {display:flex;justify-content:space-between;align-items:center}
+    header .logo {display:flex;justify-content:center;align-items:center}
+        header .logo img {max-width:100%}
+    header .mainTitle {padding:0 32px;font-weight:bold}
+        header .mainTitle a, header .mainTitle span {display:block;padding:8px 32px;font-size:32px;text-align:center;color:white;}
+    header .slogan {display:flex;flex-flow:column;padding:16px}
+        header .slogan > * {line-height:32px;font-size:24px;font-weight:bold;text-decoration:underline;text-align:center;color:#AC1B27}
+
+
+
+.btns {
+	padding-top: 60px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content:space-around;
+	align-items: center;
+}
+div .btns .btn {
+	flex-basis: 30% !important;
+	font-size: 32px;
+	font-weight: bolder;
+	/*border-radius: 20% !important;*/
+}
+
+
+/* FAXS */
+div .branch_title {
+	/*max-width: 300px;*/
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.branch_title > h1 {
+	padding: 20px;
+	color: royalblue;
+	font-weight: bolder;
+	font-size: 28px;
+	flex-basis: 60%;
+}
+
+div.search_bar {
+	flex-basis: 20%;
+}
+
+
+div.faxs_control_btns {
+	flex-basis: 20%;
+	/*display: flex;
+	flex-direction: column;
+	justify-content: space-between;*/
+	/*align-items: flex-start;*/
+	/*background-color: red;*/
+}
+
+
+
+.add_fax .add_fax_form {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	/*align-items: center;*/
+
+	/*flex-wrap: nowrap;*/
+}
+.col1 {
+	flex-basis: 25% !important;
+
+}
+.col2 {
+	flex-basis: 35% !important;
+
+}
+
+
+.details {
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: center;
+	align-items: center;
+	margin: 2px;
+}
+.labels {
+	flex-basis: 30%;
+	text-align: center;
+	font-size: 20pt;
+	height: 100%;
+	background-color: #000020;
+	color: white;
+}
+.inputs {
+	flex-basis: 70%;
+	text-align: center;
+	font-size: 28px !important;
+	background: white !important;
+
+}
+.details textarea {
+	min-height: 80px;
+}
+.img_input {
+	background-color: gray !important;
+}
+
+
+
+
+/* FXS TABLE */
+.fax_table {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 20pt;
+}
+#fax_table {
+    /*border-collapse: collapse;*/
+    border: #930e3b solid 2px;
+    border-radius: 80px;
+    width: 100%;
+}
+
+.fax_table th {
+    background-color: #4a148c;
+    color: #ffffff;
+    text-align: center;
+    border: #ffffff solid 1px;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+.fax_table tr {
+	padding: 10px;
+}
+.fax_table td {
+    text-align: center;
+    border: #ffffff solid 2px;
+}
+.fax_table .col-num {
+    width: auto;
+    min-width: 80px;
+    background-color: #140b3c;
+    color: #fff176;
+}
+.fax_table .col-about {
+    min-width: 300px;
+    padding: 4px;
+    /*width: 110px;*/
+}
+.fax_table .col-date {
+    min-width: 100px;
+    padding: 4px;
+    /*width: 100px;*/
+}
+
+
+td.col-num {
+    background-color: #3e2723;
+    color: #aeea00;
+}
+td.col-about {
+    background-color: #2E3951;
+    color: #01ec78;
+}
+td.col-date {
+    background-color: #333;
+    color: #c80;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+td > h5 > a {
+    text-decoration: none;
+    color: #01ec78;
+    font-size: 18px;
+    font-weight: 600;
+}
+td > h5 > a:hover {
+    text-decoration: none;
+    color: #fff176;
+}
+td > h5 {
+    /*font-size: 16px;*/
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+/* SHOW */
+.show_details {
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: space-between;
+	margin-bottom: 3px;
+}
+.show_details .outputs {
+	border: #000020 2px double;
+	flex-basis: 70%;
+	text-align: center;
+	background-color: #E7E7ED;
+}
+.fax_page {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: center;
+}
+.fax_img {
+	width: 400px;
+	height: 650px;
+	border: #000020 2px solid;
+}
+
+.page_num {
+	font-size: 16pt;
+}
